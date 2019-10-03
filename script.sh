@@ -10,4 +10,5 @@ echo "$Environment for $Variable" >> test
 
 echo "[INFO] GIT Jenkins Integratioon Demo"
 echo "[INFO] POLL SCM Demo"
+echo "[Info] new push"
 echo "[INFO] GIT PULL Demo"
